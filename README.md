@@ -1,5 +1,7 @@
 # UFO Sightings 
 
+![180103-ufo-illustration-mn-1015](https://user-images.githubusercontent.com/85518330/146302833-775b6cab-17ff-46af-a7c5-3eb022069566.jpg)
+
 ## Project Overview
 
 In this module we learn to use JavaScript to build a dynamic web page. A dynamic web page accepts user inputs to adjust what is displayed on the screen. Here we used UFO sighting data as an example and built a table to neatly display all the sighting data, we created filters that let our users refine their search. We used HTML to display our web page and used CSS and Bootstrap elements to help style our page 
